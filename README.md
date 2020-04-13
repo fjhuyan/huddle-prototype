@@ -12,7 +12,7 @@
 
 
 This is a super quick mini project I prototyped for an app idea I had
-to take as an opportunity to learn the basics of Kotlin as well as
+to take as an opportunity to learn the basics of Flutter as well as
 learning how to set up a Node.js backend server with a MySQL database
 backend. I ended up really disliking the way Kotlin handles UI
 design with its "UI in Code" ideaology but I'm hoping to flesh
