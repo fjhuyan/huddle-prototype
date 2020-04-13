@@ -1,13 +1,13 @@
 # huddle
 
 <p float="left">
-  <img src="/pics/pic_1.png" width="300" />
-  <img src="/pics/pic_2.png" width="300" />
-  <img src="/pics/pic_3.png" width="300" />
+  <img src="/pics/pic_1.png" width="280" />
+  <img src="/pics/pic_2.png" width="280" />
+  <img src="/pics/pic_3.png" width="280" />
 </p>
 <p float="left">
-  <img src="/pics/pic_4.png" width="300" />
-  <img src="/pics/pic_5.pngg" width="300" />
+  <img src="/pics/pic_4.png" width="280" />
+  <img src="/pics/pic_5.png" width="280" />
 </p>
 
 
